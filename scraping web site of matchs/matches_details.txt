@@ -1,0 +1,384 @@
+Tournament type: بطولة العالم لكرة اليد
+Team A: بولندا
+Team B: سويسرا
+Match Time: 16:30
+Match result: 28 - 30
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: ألمانيا
+Team B: التشيك
+Match Time: 19:00
+Match result: 10 - 11
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: مقدونيا
+Team B: غينيا
+Match Time: 19:00
+Match result: 13 - 9
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: البرازيل
+Team B: أمريكا
+Match Time: 19:00
+Match result: 9 - 10
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: الأرجنتين
+Team B: البحرين
+Match Time: 19:00
+Match result: 15 - 10
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: المجر
+Team B: هولندا
+Match Time: 21:30
+Match result: 0 - 0
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: النرويج
+Team B: البرتغال
+Match Time: 21:30
+Match result: 0 - 0
+----------------------------------------
+Tournament type: بطولة العالم لكرة اليد
+Team A: مصر
+Team B: كرواتيا
+Match Time: 21:30
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: الصفاقســــي
+Team B: نادي برافوس دو ماكيس
+Match Time: 15:00
+Match result: 4 - 0
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: سيمبا
+Team B: شباب قسنطينة
+Match Time: 15:00
+Match result: 2 - 0
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: الزمالك
+Team B: إنييمبا
+Match Time: 18:00
+Match result: 2 - 1
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: المصري
+Team B: بلاك بولز
+Match Time: 18:00
+Match result: 3 - 1
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: ستاد مالي
+Team B: ديسبورتيفو دا لوندا سول
+Match Time: 21:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: أسيك أبيدجـــــان
+Team B: أورابا يونايتد
+Match Time: 21:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: اتحاد العاصمة
+Team B: دياراف داكار
+Match Time: 21:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الكونفيدرالية الإفريقية
+Team A: نهضة بركان
+Team B: ستيلينبوش
+Match Time: 21:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: دوري أبطال أفريقيا
+Team A: ماميلودي صنداونز
+Team B: الجيش الملكي
+Match Time: 18:00
+Match result: 1 - 0
+----------------------------------------
+Tournament type: دوري أبطال أفريقيا
+Team A: الرجاء البيضاوي
+Team B: أس مانيما يونيون
+Match Time: 18:00
+Match result: 1 - 0
+----------------------------------------
+Tournament type: الدوري الإنجليزي
+Team A: مانشستر يونايتد
+Team B: برايتون
+Match Time: 16:00
+Match result: 1 - 3
+----------------------------------------
+Tournament type: الدوري الإنجليزي
+Team A: ايفرتون
+Team B: توتنهام هوتسبر
+Match Time: 16:00
+Match result: 3 - 2
+----------------------------------------
+Tournament type: الدوري الإنجليزي
+Team A: نوتينجهام فورست
+Team B: ساوثامبتون
+Match Time: 16:00
+Match result: 3 - 2
+----------------------------------------
+Tournament type: الدوري الإنجليزي
+Team A: إيبسويتش تاون
+Team B: مانشستر سيتي
+Match Time: 18:30
+Match result: 0 - 3
+----------------------------------------
+Tournament type: الدوري الإسباني
+Team A: سيلتا فيجو
+Team B: أتلتيك بلباو
+Match Time: 15:00
+Match result: 1 - 2
+----------------------------------------
+Tournament type: الدوري الإسباني
+Team A: ريال مدريد
+Team B: لاس بالماس
+Match Time: 17:15
+Match result: 4 - 1
+----------------------------------------
+Tournament type: الدوري الإسباني
+Team A: أوساسونا
+Team B: رايو فاييكانو
+Match Time: 19:30
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري الإسباني
+Team A: فالنسيا
+Team B: ريال سوسيداد
+Match Time: 22:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري الألماني
+Team A: يونيون برلين
+Team B: ماينز
+Match Time: 16:30
+Match result: 2 - 1
+----------------------------------------
+Tournament type: الدوري الألماني
+Team A: فيردر بريمن
+Team B: أوجسبورج
+Match Time: 18:30
+Match result: 0 - 2
+----------------------------------------
+Tournament type: الدوري الفرنسي
+Team A: سانت اتيان
+Team B: نانت
+Match Time: 16:00
+Match result: 1 - 1
+----------------------------------------
+Tournament type: الدوري الفرنسي
+Team A: ريمس
+Team B: لوهافر
+Match Time: 18:15
+Match result: 1 - 0
+----------------------------------------
+Tournament type: الدوري الفرنسي
+Team A: أنجيه
+Team B: اوكسير
+Match Time: 18:15
+Match result: 2 - 0
+----------------------------------------
+Tournament type: الدوري الفرنسي
+Team A: مارسيليا
+Team B: ستراسبورج
+Match Time: 21:45
+Match result: 0 - 0
+----------------------------------------
+Tournament type: البطولة العربية للأندية للكرة الطائرة
+Team A: نادي أربيل
+Team B: الأهلي
+Match Time: 15:00
+Match result: 1 - 3
+----------------------------------------
+Tournament type: البطولة العربية للأندية للكرة الطائرة
+Team A: السيب العماني
+Team B: الهلال الليبي
+Match Time: 15:00
+Match result: 3 - 0
+----------------------------------------
+Tournament type: البطولة العربية للأندية للكرة الطائرة
+Team A: نادي الشرطة القطري
+Team B: داركليب
+Match Time: 17:30
+Match result: 3 - 0
+----------------------------------------
+Tournament type: البطولة العربية للأندية للكرة الطائرة
+Team A: الزمالك
+Team B: نادي الكويت
+Match Time: 17:30
+Match result: 2 - 2
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: الداخلية
+Team B: المصرية للاتصالات
+Match Time: 14:30
+Match result: 2 - 1
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: بروكسي
+Team B: سبورتنج
+Match Time: 14:30
+Match result: 2 - 2
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: وادي دجلة
+Team B: راية الرياضي
+Match Time: 14:30
+Match result: 2 - 0
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: كهرباء الإسماعيلية
+Team B: المقاولون العرب
+Match Time: 14:30
+Match result: 1 - 1
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: السكة الحديد مودرن
+Team B: منتخب السويس
+Match Time: 14:30
+Match result: 1 - 0
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: طنطا‏
+Team B: المنصورة
+Match Time: 14:30
+Match result: 1 - 3
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: لافيينا أف سي
+Team B: أسوان
+Match Time: 14:30
+Match result: 1 - 2
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: أبو قير للاسمدة
+Team B: ديروط
+Match Time: 14:30
+Match result: 2 - 1
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: القناة
+Team B: بترول أسيوط
+Match Time: 14:30
+Match result: 1 - 0
+----------------------------------------
+Tournament type: دوري القسم الثاني-أ
+Team A: الترسانة
+Team B: بلدية المحلة
+Match Time: 14:30
+Match result: 3 - 3
+----------------------------------------
+Tournament type: الدوري الإيطالي
+Team A: فيورنتينا
+Team B: تورينو
+Match Time: 13:30
+Match result: 1 - 1
+----------------------------------------
+Tournament type: الدوري الإيطالي
+Team A: كالياري
+Team B: ليتشي
+Match Time: 16:00
+Match result: 4 - 1
+----------------------------------------
+Tournament type: الدوري الإيطالي
+Team A: بارما
+Team B: فينيزيا
+Match Time: 16:00
+Match result: 1 - 1
+----------------------------------------
+Tournament type: الدوري الإيطالي
+Team A: هيلاس فيرونا
+Team B: لاتسيو
+Match Time: 19:00
+Match result: 0 - 2
+----------------------------------------
+Tournament type: الدوري الإيطالي
+Team A: إنتر ميلان
+Team B: إمبولي
+Match Time: 21:45
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري التركي
+Team A: جوزتيبي
+Team B: انطاليا سبور
+Match Time: 12:30
+Match result: 1 - 0
+----------------------------------------
+Tournament type: الدوري التركي
+Team A: قونيا سبور
+Team B: قاسم باشا
+Match Time: 15:00
+Match result: 3 - 3
+----------------------------------------
+Tournament type: الدوري التركي
+Team A: ايوبسبور
+Team B: ألانيا سبور
+Match Time: 18:00
+Match result: 2 - 0
+----------------------------------------
+Tournament type: الدوري التركي
+Team A: أضنة دمير سبور
+Team B: فنربخشة
+Match Time: 18:00
+Match result: 0 - 3
+----------------------------------------
+Tournament type: الدوري البرتغالي
+Team A: ناسيونال ماديرا
+Team B: اي في اس فوتبول
+Match Time: 17:30
+Match result: 3 - 1
+----------------------------------------
+Tournament type: الدوري البرتغالي
+Team A: موريرنسي
+Team B: فيرنسي
+Match Time: 17:30
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري البرتغالي
+Team A: إستريلا
+Team B: سبورتينج براجا
+Match Time: 20:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري البرتغالي
+Team A: جل فيسنتي
+Team B: بورتو
+Match Time: 22:30
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري المغربي
+Team A: حسنية اغادير
+Team B: المغرب الفاسي
+Match Time: 16:00
+Match result: 2 - 2
+----------------------------------------
+Tournament type: الدوري المغربي
+Team A: الدفاع الجديدي
+Team B: الوداد البيضاوي
+Match Time: 20:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري التونسي
+Team A: قوافل قفصة
+Team B: شبيبة العمران
+Match Time: 15:00
+Match result: 0 - 0
+----------------------------------------
+Tournament type: الدوري التونسي
+Team A: الملعب التونسي
+Team B: الترجي الجرجيسي
+Match Time: 15:00
+Match result: 1 - 1
+----------------------------------------
+Tournament type: الدوري التونسي
+Team A: الإتحاد المنستيري
+Team B: البنزرتي
+Match Time: 15:00
+Match result: 3 - 1
+----------------------------------------
