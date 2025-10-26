@@ -23,3 +23,7 @@ It extracts match details such as **teams**, **scores**, **dates**, and **events
 - *(Optional)* Pandas for data cleaning and export
 
 ---
+
+📷 Preview
+
+<img width="1897" height="858" alt="image" src="https://github.com/user-attachments/assets/40a5455e-485b-4cd1-b5c7-8e2b174ea2ec" />
