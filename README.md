@@ -32,3 +32,17 @@ This repository contains example scripts to scrape data from two different websi
 ## Contribution
 
 Contributions are welcome. If you'd like to improve the scrapers, add tests, or expand export formats, please open an issue or submit a pull request describing your changes.
+
+
+---
+
+## 🧑‍💻 Author
+
+**Wissem Benkhaled**
+
+💌 **Email:** [wissembenkhaled85@gmail.com](mailto:wissembenkhaled85@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/wissem-benkhaled](https://www.linkedin.com/in/wissem-benkhaled/)  
+🐙 **GitHub:** [github.com/Wissem-Benkhaled](https://github.com/Wissem-Benkhaled)  
+🌐 **Portfolio:** [wissembenkhaled.netlify.app](https://wissembenkhaled.netlify.app/)
+
+---
